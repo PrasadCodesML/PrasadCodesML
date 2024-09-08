@@ -9,11 +9,11 @@
 </a>
 <p align="center">
  
-<a href="https://github.com/NeuralArchitect"> 
+<h4> 
  - 👨‍💻 I’m currently strengthening my DSA
  - 📚 I’m currently learning **Docker, Machine Learning and Databases** 
  - 💪🏼 Future Goals: Learn more technologies, Never stop creating new ideas.
-</a>
+</h4>
 
 <br/>
 
