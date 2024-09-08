@@ -9,11 +9,10 @@
 </a>
 <p align="center">
  
-<h4> 
- - 👨‍💻 I’m currently strengthening my DSA
- - 📚 I’m currently learning **Docker, Machine Learning and Databases** 
- - 💪🏼 Future Goals: Learn more technologies, Never stop creating new ideas.
-</h4>
+<h4> 👨‍💻 I’m currently strengthening my DSA </h4>
+<h4> 📚 I’m currently learning **Docker, Machine Learning and Databases** </h4>
+<h4> 💪🏼 Future Goals: Learn more technologies, Never stop creating new ideas </h4>
+
 
 <br/>
 
