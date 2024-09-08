@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.pixabay.com/animation/2022/08/22/15/52/15-52-25-794_512.gif"  />
+<img align="right" height="250" src="https://cdn.pixabay.com/animation/2022/08/22/15/52/15-52-25-794_512.gif"  />
 
 ###
 
