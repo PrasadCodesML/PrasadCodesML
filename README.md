@@ -1,5 +1,5 @@
 <a href="https://github.com/NeuralArchitect"> 
- <img align="center" src="./images/header.png" width="100%">    
+ <img align="center" src="Blue Modern Company Slogan LinkedIn Banner.gif" width="100%">    
 </a>
 <p align="center">
 
