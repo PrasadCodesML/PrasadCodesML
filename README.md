@@ -2,9 +2,7 @@
  <img align="center" src="Blue Modern Company Slogan LinkedIn Banner.gif" width="100%">    
 </a>
 <p align="center">
-
 <br/>
-
 <p align="center">
  
 <h4> 👨‍💻 I’m currently strengthening my DSA </h4>
