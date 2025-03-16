@@ -6,7 +6,7 @@
 <p align="center">
  
 # 💫 About Me:
-👨‍💻 I’m currently strengthening my DSA<br>📚 I’m currently learning Docker, Machine Learning and Databases<br>💪🏼 Future Goals: Learn more technologies, Never stop creating new ideas<br>My Resume : https://drive.google.com/file/d/1iX29XKNdgbiIOZHX8H-ZpBjvtH2-82ch/view?usp=sharing
+👨‍💻<h4> I’m currently strengthening my DSA</h4><br>📚 <h4>I’m currently learning Docker, Machine Learning and Databases</h4><br>💪🏼 <h4>Future Goals: Learn more technologies, Never stop creating new ideas</h4><br><h4>My Resume : https://drive.google.com/file/d/1iX29XKNdgbiIOZHX8H-ZpBjvtH2-82ch/view?usp=sharing</h4>
 
 
 ## 🌐 Socials:
