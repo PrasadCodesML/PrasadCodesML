@@ -9,7 +9,7 @@
 <h4>👨‍💻 I’m currently strengthening my DSA</h4>
 <h4>📚 I’m currently learning Docker, Machine Learning and Databases</h4>
 <h4>💪🏼 Future Goals: Learn more technologies, Never stop creating new ideas</h4>
-<h4>My Resume : https://drive.google.com/file/d/1QuyF61MSbZzccHNRokL1S4nNVboK7muD/view?usp=sharing</h4>
+<h4>My Resume : https://drive.google.com/file/d/1mODR1x_yCTYVQBh3V1IrVouwnIpXI4cH/view?usp=drive_link</h4>
 
 
 ## 🌐 Socials:
